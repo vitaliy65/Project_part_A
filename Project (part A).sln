@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project (part A)", "Project (part A)\Project (part A).csproj", "{CA7F789C-D552-426E-B7EF-52B51C2DA162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFantasticBeasts", "TestFantasticBeasts\TestFantasticBeasts.csproj", "{C74A9611-EBB8-4F0E-98B7-46E45685A40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7F789C-D552-426E-B7EF-52B51C2DA162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7F789C-D552-426E-B7EF-52B51C2DA162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7F789C-D552-426E-B7EF-52B51C2DA162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7F789C-D552-426E-B7EF-52B51C2DA162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74A9611-EBB8-4F0E-98B7-46E45685A40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74A9611-EBB8-4F0E-98B7-46E45685A40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74A9611-EBB8-4F0E-98B7-46E45685A40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74A9611-EBB8-4F0E-98B7-46E45685A40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E996FCAA-5C45-4586-AFDC-84289D16DC2B}
+	EndGlobalSection
+EndGlobal

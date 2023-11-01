@@ -1,0 +1,14 @@
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\bin\Debug\net7.0\Project (part A).exe
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\bin\Debug\net7.0\Project (part A).deps.json
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\bin\Debug\net7.0\Project (part A).runtimeconfig.json
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\bin\Debug\net7.0\Project (part A).dll
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\bin\Debug\net7.0\Project (part A).pdb
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).AssemblyInfoInputs.cache
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).AssemblyInfo.cs
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).csproj.CoreCompileInputs.cache
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).dll
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\refint\Project (part A).dll
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).pdb
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\Project (part A).genruntimeconfig.cache
+C:\Users\cigri\Рабочий стол\Университет\ООП\Project (part A)\Project (part A)\Project (part A)\obj\Debug\net7.0\ref\Project (part A).dll
